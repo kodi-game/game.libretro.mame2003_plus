@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame2003_plus"
-		name="Arcade (MAME 2003-Plus - Experimental)"
+		name="Arcade (MAME 2003-Plus)"
 		version="0.78.0"
 		provider-name="Libretro">
 	<requires>
@@ -14,9 +14,9 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Arcade (MAME 2003-Plus - Experimental) 0.78</summary>
+		<summary lang="en_GB">Arcade (MAME 2003-Plus) 0.78</summary>
 		<description lang="en_GB">Supported files: .zip</description>
-		<license>MAME</license>
+		<license>MAME Noncommercial</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
 </addon>
