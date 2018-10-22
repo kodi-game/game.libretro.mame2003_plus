@@ -18,5 +18,6 @@
 		<description lang="en_GB">Supported files: .zip</description>
 		<license>MAME Noncommercial</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.mame2003_plus</source>
 	</extension>
 </addon>
