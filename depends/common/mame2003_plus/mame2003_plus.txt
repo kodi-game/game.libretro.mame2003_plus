@@ -1,1 +1,1 @@
-mame2003_plus https://github.com/libretro/mame2003-plus-libretro/archive/382cb6fe4af15a9b2259fc4687bde8a69f1234f5.zip
+mame2003_plus https://github.com/libretro/mame2003-plus-libretro/archive/38acaa64a4b029a35cd57ff402fc1105be4461df.zip
