@@ -15,7 +15,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Arcade (MAME 2003-Plus)</summary>
-		<description lang="en_GB">Updated 2018 version of MAME (0.78) for libretro, with added game support plus many fixes and improvements .
+		<description lang="en_GB">Updated 2018 version of MAME (0.78) for libretro, with added game support plus many fixes and improvements.
 
 Supported files: .zip</description>
 		<license>MAME Noncommercial</license>
