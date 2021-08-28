@@ -17,6 +17,9 @@
 		<license>MAME Noncommercial</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mame2003_plus</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Arcade (MAME 2003-Plus)</summary>
 		<description lang="en_GB">Updated 2018 version of MAME (0.78) for libretro, with added game support plus many fixes and improvements.</description>
 	</extension>
