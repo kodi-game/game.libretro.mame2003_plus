@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "Updated 2018 version of MAME (0.78) for libretro, with added game support plus many fixes and improvements."
 msgstr ""
-
