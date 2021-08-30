@@ -1,1 +1,1 @@
-mame2003_plus https://github.com/kodi-game/mame2003-plus-libretro/archive/89b307eca97ea2518ef0e4551157ecff3b4b5a8b.tar.gz
+mame2003_plus https://github.com/libretro/mame2003-plus-libretro/archive/458b856482658652898284a57b28edaf7aaa5801.tar.gz
