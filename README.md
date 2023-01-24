@@ -13,7 +13,7 @@ MAME Noncommercial
 
 ### Icon
 
-![Icon](game.libretro.mame2003_plus/resources/icon.png)
+![Arcade (MAME 2003-Plus) icon](game.libretro.mame2003_plus/resources/icon.png)
 
 ### Fanart
 
