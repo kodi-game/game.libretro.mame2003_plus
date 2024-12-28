@@ -22,5 +22,5 @@ msgid "Arcade (MAME 2003-Plus)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Updated 2018 version of MAME (0.78) for libretro, with added game support plus many fixes and improvements."
+msgid "Updated 2003 version of MAME (0.78) for libretro, with added support for over 350 additional games plus many fixes and improvements."
 msgstr "Versione 2018 aggiornata di MAME (0.78) per libretro, con supporto di gioco aggiunto oltre a molte correzioni e miglioramenti."
