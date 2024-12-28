@@ -2,7 +2,7 @@
 
 ### Description
 
-Updated 2018 version of MAME (0.78) for libretro, with added game support plus many fixes and improvements.
+Updated 2003 version of MAME (0.78) for libretro, with added support for over 350 additional games plus many fixes and improvements.
 
 ### License
 
