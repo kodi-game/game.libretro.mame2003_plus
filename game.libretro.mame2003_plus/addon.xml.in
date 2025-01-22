@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Arcade (MAME 2003-Plus)</summary>
+		<description lang="af_ZA">Opgedateerde 2003 weergawe van MAME (0.78) vir libretro, met bygevoegde ondersteuning vir oor die 350 bykomende speletjies plus baie wat reggemaak is en verbeteringe.</description>
 		<description lang="da_DK">Opdateret 2018-version af MAME (0.78) til libretro, med tilføjet understøttelse af spil plus mange rettelser og forbedringer.</description>
 		<description lang="de_DE">Aktualisierte Version 2018 von MAME (0.78) für libretro, mit zusätzlicher Spieleunterstützung und vielen Korrekturen und Verbesserungen.</description>
 		<description lang="en_GB">Updated 2003 version of MAME (0.78) for libretro, with added support for over 350 additional games plus many fixes and improvements.</description>
