@@ -29,6 +29,7 @@
 		<description lang="es_ES">Versión 2018 actualizada de MAME (0.78) para libretro, con soporte añadido para juegos además de muchas correcciones y mejoras.</description>
 		<description lang="it_IT">Versione 2018 aggiornata di MAME (0.78) per libretro, con supporto di gioco aggiunto oltre a molte correzioni e miglioramenti.</description>
 		<description lang="ko_KR">libretro용 MAME(0.78) 2018 버전이 업데이트되었으며, 게임 지원이 추가되고 많은 수정 및 개선이 이루어졌습니다.</description>
+		<description lang="sv_SE">Uppdaterad 2003 års version av MAME (0.78) för libretro, med stöd för över 350 ytterligare spel samt många korrigeringar och förbättringar.</description>
 		<description lang="zh_CN">libretro 的升级2018版 MAME（0.78） 。增加了游戏支持，并进行了许多修正和改进。</description>
 	</extension>
 </addon>
